@@ -14,9 +14,9 @@ class SpotifyAPIManager: NSObject, ASWebAuthenticationPresentationContextProvidi
     
     // MARK: - Initialization
     private override init() {
-        self.clientID = "4c7c75d2d8424a308e026cf361a7f4dc"
-        self.clientSecret = "accea17f291642b59747e60a54a2a3bb"
-        self.redirectURI = "spotify-tasiyici://callback"
+        self.clientID = SpotifyConfig.clientID
+        self.clientSecret = SpotifyConfig.clientSecret
+        self.redirectURI = SpotifyConfig.redirectURI
     }
     
     // MARK: - Authentication Flow
