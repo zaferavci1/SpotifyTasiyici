@@ -69,14 +69,6 @@ open SpotifyTasiyici.xcodeproj
    - Yeni bir playlist oluşturacak
    - Bulunan şarkıları playlist'e ekleyecek
 
-## 📱 Ekran Görüntüleri
-
-*(Buraya ekran görüntülerini ekleyebilirsiniz)*
-
-## 🔒 Güvenlik
-
-⚠️ **ÖNEMLİ:** `Config.swift` dosyası hassas bilgiler içerir ve `.gitignore` ile korunmaktadır. Bu dosyayı asla GitHub'a yüklemeyin!
-
 ## 🏗️ Mimari
 
 - **TransferManager**: Aktarım sürecini yöneten ana sınıf
