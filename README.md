@@ -24,7 +24,7 @@ Spotify'daki beğenilen şarkılarınızı Apple Music'e aktaran iOS uygulaması
 ### 1. Projeyi Klonlayın
 
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/SpotifyTasiyici.git
+git clone https://github.com/zaferavci1/SpotifyTasiyici.git
 cd SpotifyTasiyici
 ```
 
